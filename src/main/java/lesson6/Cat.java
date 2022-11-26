@@ -53,7 +53,7 @@ public class Cat {
         Cat cat4 = new Cat();
         cat4.id = 4;
         cat4.name = "Sirius";
-        cat4.age = 11;
+        cat4.age = 10;
         cat4.color = "black";
         cat4.mastersName = "Igor";
 
